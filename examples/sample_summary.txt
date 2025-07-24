@@ -1,0 +1,1 @@
+This project automates meeting note-taking using Fireflies for transcription, Zapier for orchestration, and Gemini for summarization. It sends concise summaries to email and Slack, providing a no-code AI workflow.
