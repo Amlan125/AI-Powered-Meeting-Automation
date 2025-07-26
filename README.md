@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Meeting Automation: Fireflies + Zapier + Gemini + Notion, Email, Slack & Teams
+# 🤖 AI-Powered Meeting Automation:
 
 This project demonstrates how to build an **end-to-end no-code AI automation** that:
 - Transcribes meetings automatically (Fireflies AI)
@@ -114,8 +114,6 @@ A perfect real-world project to showcase on your CV or GitHub.
 | Email summary | ![](images/email-example.png) |
 | Slack / Teams message | ![](images/slack-teams.png) |
 
-*(Add real screenshots here in the /images folder)*
-
 ---
 
 ## 📚 Future Improvements
@@ -127,12 +125,7 @@ A perfect real-world project to showcase on your CV or GitHub.
 ---
 
 ## 🧑‍💻 Author
-Built by [Your Name](https://github.com/yourusername) — July 2025
-
----
-
-## 📄 License
-MIT (or your chosen license)
+Built by Amlan (https://github.com/Amlan125)
 
 ---
 
