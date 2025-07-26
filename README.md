@@ -109,10 +109,13 @@ A perfect real-world project to showcase on your CV or GitHub.
 
 | Step | Screenshot |
 |-----|-----------|
-| Zapier workflow | ![](images/zap-setup.png) |
-| Notion database | ![](images/notion-db.png) |
-| Email summary | ![](images/email-example.png) |
-| Slack / Teams message | ![](images/slack-teams.png) |
+| Zapier workflow | ![](<img width="322" height="498" alt="zapier workflow" src="https://github.com/user-attachments/assets/865e5f6a-9c87-412f-8ab7-c324909d68a9" />
+) |
+| Notion database | ![](<img width="1079" height="525" alt="notion" src="https://github.com/user-attachments/assets/d9df9c2c-dc1d-4d72-8cd1-c0c91a69cb64" />
+) |
+| Email summary | ![](<img width="1011" height="491" alt="mail" src="https://github.com/user-attachments/assets/67d63959-ea8e-4398-ba9b-3c9bd3d7b746" />
+) |
+| Slack / Teams message | ![](<img width="965" height="413" alt="slack" src="https://github.com/user-attachments/assets/5485e1e7-9819-4bdd-bafb-7b6d37fc214d" />) |
 
 ---
 
