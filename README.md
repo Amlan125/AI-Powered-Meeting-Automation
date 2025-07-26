@@ -1,12 +1,11 @@
 # 🤖 AI-Powered Meeting Automation:
 
 This project demonstrates how to build an **end-to-end no-code AI automation** that:
-- Transcribes meetings automatically (Fireflies AI)
+- Transcribes virtual meetings automatically (Fireflies AI)
 - Summarizes transcripts using Google Gemini via Zapier
-- Stores the summary in Notion
+- Stores the summary in Notion along with the key insights and date of the meeting
 - Sends it instantly to Email, Slack, and Microsoft Teams
 
-A perfect real-world project to showcase on your CV or GitHub.
 
 ---
 
@@ -38,7 +37,6 @@ A perfect real-world project to showcase on your CV or GitHub.
 5. 📧 Sends email
 6. 💬 Posts to Slack & Teams
 
-![Workflow Diagram](images/zap-setup.png)
 
 ---
 
@@ -101,11 +99,11 @@ A perfect real-world project to showcase on your CV or GitHub.
   - Fireflies transcript → Zapier trigger works
   - AI summary created correctly
   - Summary appears in Notion
-  - Email, Slack & Teams messages received
+  - Email, Teams & Slack messages received
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 | Step | Screenshot |
 |-----|-----------|
@@ -133,13 +131,3 @@ Built by Amlan (https://github.com/Amlan125)
 
 ---
 
-## 🎥 Demo Script (Optional)
-> Hi! Here’s a quick demo of my AI meeting automation project.  
-> After every meeting, Fireflies AI automatically creates a transcript.  
-> Zapier detects the new transcript, sends it to Google Gemini, and produces a summary.  
-> Then, Zapier saves it to Notion, sends me an email, and posts it to Slack & Teams.  
-> It keeps my notes organized, shares them instantly with the team, and saves time every week!
-
----
-
-## ⭐ Feel free to fork, use, or ask questions!
