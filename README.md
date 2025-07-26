@@ -115,7 +115,8 @@ A perfect real-world project to showcase on your CV or GitHub.
 ) |
 | Email summary | ![](<img width="1011" height="491" alt="mail" src="https://github.com/user-attachments/assets/67d63959-ea8e-4398-ba9b-3c9bd3d7b746" />
 ) |
-| Slack / Teams message | ![](<img width="965" height="413" alt="slack" src="https://github.com/user-attachments/assets/5485e1e7-9819-4bdd-bafb-7b6d37fc214d" />) |
+| Slack / Teams message | ![](<img width="965" height="413" alt="slack" src="https://github.com/user-attachments/assets/9523ddef-044d-42e7-ae6b-cce041dc0add" />
+) |
 
 ---
 
