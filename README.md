@@ -1,4 +1,4 @@
-# 🤖 AI-Powered Meeting Automation:
+# AI-Powered Meeting Automation:
 
 This project demonstrates how to build an **end-to-end no-code AI automation** that:
 - Transcribes virtual meetings automatically (Fireflies AI)
@@ -9,7 +9,7 @@ This project demonstrates how to build an **end-to-end no-code AI automation** t
 
 ---
 
-## 📌 Why this project?
+## Why this project?
 ✅ Eliminates manual meeting notes  
 ✅ Uses AI to create concise summaries  
 ✅ Distributes insights across tools automatically  
@@ -17,7 +17,7 @@ This project demonstrates how to build an **end-to-end no-code AI automation** t
 
 ---
 
-## ⚙️ Tech Stack / Tools
+## Tech Stack / Tools
 | Tool | Purpose |
 |-----|---------|
 | Fireflies AI | Automatic meeting transcription |
@@ -29,27 +29,27 @@ This project demonstrates how to build an **end-to-end no-code AI automation** t
 
 ---
 
-## 🧩 Workflow Overview
-1. 📝 Meeting is held → Fireflies transcribes
-2. 🔄 Zapier detects new transcript
-3. ✏️ Sends transcript to Gemini → AI summary
-4. 🗂️ Saves summary to Notion
-5. 📧 Sends email
-6. 💬 Posts to Slack & Teams
+##  Workflow Overview
+1.  Meeting is held → Fireflies transcribes
+2.  Zapier detects new transcript
+3.  Sends transcript to Gemini → AI summary
+4.  Saves summary to Notion
+5.  Sends email
+6.  Posts to Slack & Teams
 
 
 ---
 
-## 🚀 Step-by-Step Setup
+##  Step-by-Step Setup
 
-### ✅ 1. Setup Fireflies
+###  1. Setup Fireflies
 - Sign up at [Fireflies.ai](https://fireflies.ai)
 - Connect your calendar & Zoom / Google Meet
 - Fireflies will auto-join and transcribe meetings
 
 ---
 
-### ✅ 2. Setup Notion
+###  2. Setup Notion
 - Create a **new database** (e.g., “Meeting Summaries”)
 - Share database with the Zapier integration  
   - Go to *Settings → Connections → Integrations → Zapier*  
@@ -57,43 +57,43 @@ This project demonstrates how to build an **end-to-end no-code AI automation** t
 
 ---
 
-### ✅ 3. Create Zap in Zapier
+###  3. Create Zap in Zapier
 
-#### ⚡ Trigger: Fireflies
+####  Trigger: Fireflies
 - App: **Fireflies AI**
 - Event: *New Meeting Transcript*
 
-#### 🤖 Action #1: Summarize
+####  Action #1: Summarize
 - App: **AI by Zapier** (Google Gemini)
 - Prompt:  
   > “You are an AI assistant. Summarize the following meeting transcript in a clear, concise paragraph, highlighting key topics and decisions. Do not include filler or irrelevant parts.”
 
-#### 📒 Action #2: Save to Notion
+####  Action #2: Save to Notion
 - App: **Notion**
 - Event: *Create Database Item*
 - Map fields:  
   - Title → Meeting name
   - Content → AI summary
 
-#### 📧 Action #3: Send Email
+####  Action #3: Send Email
 - App: **Email by Zapier**
 - To: your email (or team)
 - Subject: e.g., “Meeting Summary: {{Meeting name}}”
 - Body: AI summary
 
-#### 💬 Action #4: Send Slack message
+####  Action #4: Send Slack message
 - App: **Slack**
 - Event: *Send channel message* or *Send DM*
 - Message: AI summary + meeting link
 
-#### 🗨️ Action #5: Send Microsoft Teams message
+####  Action #5: Send Microsoft Teams message
 - App: **Microsoft Teams**
 - Event: *Send chat message to self*
 - Message: AI summary
 
 ---
 
-## 🧪 Testing & Validation
+##  Testing & Validation
 - Tested on 2 real meetings (Meeting A & Meeting B)
 - Verified:
   - Fireflies transcript → Zapier trigger works
@@ -118,7 +118,7 @@ This project demonstrates how to build an **end-to-end no-code AI automation** t
 
 ---
 
-## 📚 Future Improvements
+##  Future Improvements
 - Extract & save **action items** separately
 - Add **topic tags** automatically
 - Compare summaries from Gemini vs GPT vs Claude
@@ -126,8 +126,10 @@ This project demonstrates how to build an **end-to-end no-code AI automation** t
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 Built by Amlan (https://github.com/Amlan125)
+
+Email: abgohain77@gmail.com
 
 ---
 
